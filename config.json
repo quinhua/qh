@@ -1,0 +1,39 @@
+{
+  "title": "清风徐来",
+  "name": "Qian Hui",
+  "ascii": "钱辉",
+  "social": {
+    "github": "https://github.com/quinhua"
+  },
+  "email": "28674635242qq.com",
+  "ps1_hostname": "qianhui",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/quinhua",
+  "donate_urls": {
+    "paypal": "https://paypal.me/cveinnt",
+    "patreon": "https://patreon.com/cveinnt"
+  },
+  "link": {
+    "navs":"http://42.192.152.184:8090/archives/chang-yong-wang-zhan#%E5%B8%B8%E7%94%A8"
+  },
+  "colors": {
+    "light": {
+      "background": "#000000",
+      "foreground": "#ffffff",
+      "yellow": "#F4BF75",
+      "green": "#A6E22E",
+      "gray": "#AE81FF",
+      "blue": "#66D9EF",
+      "red": "#F92672"
+    },
+    "dark": {
+      "background": "#F8F8F2",
+      "foreground": "#272822",
+      "yellow": "#F4BF75",
+      "green": "#A6E22E",
+      "gray": "#AE81FF",
+      "blue": "#66D9EF",
+      "red": "#F92672"
+    }
+  }
+}
