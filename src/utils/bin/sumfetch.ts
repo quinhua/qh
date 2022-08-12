@@ -1,6 +1,6 @@
 import config from '../../../config.json';
 
-const sumfetch = async (args: string[]): Promise<string> => {
+export const 个人简介 = async (args: string[]): Promise<string> => {
   if (config.ascii === '钱辉') {
     return `                                                  
              @@@@@@@@@@@@@                   不忘初心，方得始终
@@ -24,4 +24,3 @@ const sumfetch = async (args: string[]): Promise<string> => {
   } 
 };
 
-export default sumfetch;

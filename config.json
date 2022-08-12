@@ -1,20 +1,27 @@
 {
-  "title": "清风徐来",
+  "title": "林扬生",
   "name": "Qian Hui",
   "ascii": "钱辉",
   "social": {
-    "github": "https://github.com/quinhua"
+    "github": "quinhua"
   },
   "email": "28674635242qq.com",
   "ps1_hostname": "qianhui",
   "ps1_username": "visitor",
-  "repo": "https://github.com/quinhua",
+  "repo": "https://github.com/quinhua/qh",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
     "patreon": "https://patreon.com/cveinnt"
   },
   "link": {
-    "navs":"http://42.192.152.184:8090/archives/chang-yong-wang-zhan#%E5%B8%B8%E7%94%A8"
+    "hitokoto":"https://v1.hitokoto.cn",
+    "chp":"https://api.shadiao.pro/chp",
+    "du":"https://api.shadiao.pro/du",
+    "pyq":"https://api.shadiao.pro/pyq",
+    "maren":"http://42.192.152.184:9999/other/yi/mr",
+    "navs":"http://42.192.152.184:8090/archives/chang-yong-wang-zhan#%E5%B8%B8%E7%94%A8",
+    "bing_img":"https://bing.ioliu.cn/v1/rand",
+    "alidown":"http://42.192.152.184:5244/"
   },
   "colors": {
     "light": {

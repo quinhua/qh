@@ -16,10 +16,3 @@ export const getWeather = async (city: string) => {
     return error;
   }
 };
-
-export const getYiyan = async () => {
-  const { data } = await axios.get('https://v1.hitokoto.cn');
-  return {
-    yiyan: `“${data.hitokoto}” — ${data.from}`,
-  };
-};
