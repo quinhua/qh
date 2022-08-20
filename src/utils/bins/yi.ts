@@ -21,9 +21,3 @@ export const 文案 = async () => {
   const { data } = await axios.get(`${config.link.pyq}`);
   return `${data.data.text} — ${data.data.type}`;
 };
-
-
-export const 骂人 = async ()=> {
-  const data=(await axios.get(`${config.link.maren}`)).data;
-  return `${data}`
-};
